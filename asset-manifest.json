@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/tekwriter/static/css/main.8e91ecb6.chunk.css",
+    "main.js": "/tekwriter/static/js/main.7f71c9df.chunk.js",
+    "main.js.map": "/tekwriter/static/js/main.7f71c9df.chunk.js.map",
+    "runtime-main.js": "/tekwriter/static/js/runtime-main.cd848ca7.js",
+    "runtime-main.js.map": "/tekwriter/static/js/runtime-main.cd848ca7.js.map",
+    "static/js/2.2a35ba0a.chunk.js": "/tekwriter/static/js/2.2a35ba0a.chunk.js",
+    "static/js/2.2a35ba0a.chunk.js.map": "/tekwriter/static/js/2.2a35ba0a.chunk.js.map",
+    "static/js/3.e9ede457.chunk.js": "/tekwriter/static/js/3.e9ede457.chunk.js",
+    "static/js/3.e9ede457.chunk.js.map": "/tekwriter/static/js/3.e9ede457.chunk.js.map",
+    "index.html": "/tekwriter/index.html",
+    "static/css/main.8e91ecb6.chunk.css.map": "/tekwriter/static/css/main.8e91ecb6.chunk.css.map",
+    "static/js/2.2a35ba0a.chunk.js.LICENSE.txt": "/tekwriter/static/js/2.2a35ba0a.chunk.js.LICENSE.txt",
+    "static/media/mainright.5395ee7d.svg": "/tekwriter/static/media/mainright.5395ee7d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cd848ca7.js",
+    "static/js/2.2a35ba0a.chunk.js",
+    "static/css/main.8e91ecb6.chunk.css",
+    "static/js/main.7f71c9df.chunk.js"
+  ]
+}
